@@ -1,0 +1,10 @@
+C:\Users\victorflores\source\repos\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\victorflores\source\repos\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\victorflores\source\repos\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\victorflores\source\repos\Lab06\Lab06\obj\Debug\Lab06.csprojResolveAssemblyReference.cache
+C:\Users\victorflores\source\repos\Lab06\Lab06\obj\Debug\Lab06.ManPerson.resources
+C:\Users\victorflores\source\repos\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\victorflores\source\repos\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.Cache
+C:\Users\victorflores\source\repos\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\victorflores\source\repos\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\victorflores\source\repos\Lab06\Lab06\obj\Debug\Lab06.pdb
